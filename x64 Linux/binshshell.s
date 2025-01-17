@@ -1,3 +1,5 @@
+# Shellcode by x90slide
+
 .global _start
 _start:
 .intel_syntax noprefix
