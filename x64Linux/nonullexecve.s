@@ -9,7 +9,7 @@ _start:
 	mov ebx, 0x68732f6e
 	shl rbx, 16
 	mov bx, 0x6962
-    	shl rbx, 8
+ shl rbx, 8
 	mov bl, 0x2f
 	push rbx
 	mov rdi, rsp
