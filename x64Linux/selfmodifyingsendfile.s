@@ -1,5 +1,7 @@
 # Shellcode by x90slide
 
+# The .text section in the program should be writeable
+
 .global _start
 _start:
 .intel_syntax noprefix
